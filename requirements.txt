@@ -1,0 +1,2 @@
+pytelegrambotapi==4.6.0
+schedule==1.1.0
